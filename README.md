@@ -32,6 +32,7 @@ A QR code image is generated dynamically
 The image is displayed on the webpage and can be downloaded
 
 
+
 📂 Project Structure
 qr-code-generator/
 │
